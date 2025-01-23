@@ -1,6 +1,6 @@
 # ImpactMailer
 
-![image](https://github.com/user-attachments/assets/f0d4fea0-6fa7-4ce8-b1c8-3bf7dc5a65d0)
+![image](https://github.com/user-attachments/assets/dcca77fc-d0e7-493c-bd46-06c6df71f70b)
 
 ## 🚀 Overview
 ImpactMailer is a **GenAI-based Cold Email Generator** is a sophisticated solution designed to simplify the process of creating personalized cold emails for job postings. By utilizing advanced technologies like **LangChain, ChromaDB, and Generative AI**, this project enables efficient email generation while maintaining a high degree of customization and relevance.
