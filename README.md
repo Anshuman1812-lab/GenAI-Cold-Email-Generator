@@ -1,7 +1,7 @@
-# GenAI Cold Email Generator
+# ImpactMailer
 
 ## 🚀 Overview
-The **GenAI-based Cold Email Generator** is a sophisticated solution designed to simplify the process of creating personalized cold emails for job postings. By utilizing advanced technologies like **LangChain, ChromaDB, and Generative AI**, this project enables efficient email generation while maintaining a high degree of customization and relevance.
+ImpactMailer is a **GenAI-based Cold Email Generator** is a sophisticated solution designed to simplify the process of creating personalized cold emails for job postings. By utilizing advanced technologies like **LangChain, ChromaDB, and Generative AI**, this project enables efficient email generation while maintaining a high degree of customization and relevance.
 
 This tool extracts detailed job descriptions from company websites and generates professional, tailored emails that align with the specific needs of the roles. By integrating a portfolio query system, the emails also showcase relevant projects to enhance their impact.
 
