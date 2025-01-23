@@ -14,13 +14,18 @@ class Chain:
     def extract_jobs(self, cleaned_text):
         prompt_extract = PromptTemplate.from_template(
             """
-            ### SCRAPED TEXT FROM WEBSITE:
-            {page_data}
+            ### JOB DESCRIPTION:
+            {job_description}
+
             ### INSTRUCTION:
-            The scraped text is from the career's page of a website.
-            Your job is to extract the job postings and return them in JSON format containing the following keys: `role`, `experience`, `skills` and `description`.
-            Only return the valid JSON.
-            ### VALID JSON (NO PREAMBLE):
+            You are Anshuman Singh, a skilled, enthusiastic, and experienced cybersecurity professional looking to apply for the mentioned role. 
+            Highlight your expertise, relevant experience, and passion for the position. 
+            Use the provided job description to tailor the email and align your qualifications with the job requirements.
+            Also add the most relevant ones from the following links from your portfolio to showcase your capabilities: {link_list}.
+            The email should be professional, concise, and demonstrate genuine interest in the opportunity. 
+            Avoid providing any preamble or unrelated information.
+            ### EMAIL (NO PREAMBLE):
+
             """
         )
         chain_extract = prompt_extract | self.llm
