@@ -1,5 +1,3 @@
-# ImpactMailer
-
 ![image](https://github.com/user-attachments/assets/dbca4d47-9e4b-45be-b6b5-7e1267eb9517)
 
 ## Output
