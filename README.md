@@ -1,0 +1,1 @@
+# GenAI-Cold-Email-Generator
