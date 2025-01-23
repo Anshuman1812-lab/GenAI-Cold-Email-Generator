@@ -16,8 +16,8 @@ This tool extracts detailed job descriptions from company websites and generates
   - **Description:** A detailed summary of the job posting.
 - Output is structured in a clean JSON format for further processing.
 
-### ✉️ Tailored Cold Email Generation:
-- Leverages **Generative AI (GenAI)**, specifically **Llama 3.1** of the Llama series of large language models (LLMs) from Meta, to craft persuasive and professional cold emails.
+### ✉️ Tailored Email Generation:
+- Leverages **Generative AI (GenAI)**, specifically **Llama 3.1** of the Llama series of large language models (LLMs) from Meta, to craft persuasive and professional emails.
 - Ensures every email is unique, personalized, and highly relevant to the job posting.
 
 ### 📂 Portfolio Integration:
@@ -48,7 +48,7 @@ To set up the project on your local machine, follow these steps:
 ### 1. Clone the Repository:
 ```bash
 git clone https://github.com/your_username/cold-email-generator.git
-cd cold-email-generator
+cd ImpactMailer
 ```
 
 ### 2. Install Dependencies:
@@ -89,7 +89,7 @@ streamlit run main.py
 The project is organized as follows:
 
 ```plaintext
-cold-email-generator/
+ImpactMailer/
 ├── chains.py          # Core logic for job extraction and email generation using LangChain
 ├── main.py            # Entry point for the Streamlit application
 ├── portfolio.py       # Handles portfolio data loading and skill-based querying
