@@ -6,7 +6,7 @@ from utils import clean_text
 
 def create_streamlit_app(llm, portfolio, clean_text):
     st.title("📧 Impact Mailer")
-    url_input = st.text_input("Enter a URL: ", value="https://jobs.nike.com/job/R-45889?from=job%20search%20funnel")
+    url_input = st.text_input("Enter a URL: ", value="https://careers.blackrock.com/job/-/-/45831/71317458784?source=LinkedIn")
     submit_button = st.button("Submit")
 
     if submit_button:
