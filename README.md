@@ -8,31 +8,33 @@ Subject: Application for Engineer Access Identity Management Associate Role
 
 Dear Hiring Manager,
 
-I am excited to apply for the Engineer Access Identity Management Associate position at BlackRock, where I can utilize
-my expertise in Access and Identity Management to support IAM functions in Microsoft Azure and AWS environments. With
-over 5 years of experience in Access and Identity Management, I am confident that my skills and passion for cloud
-security governance practices make me an ideal candidate for this role.
+I am excited to apply for the Engineer Access Identity Management Associate position at BlackRock, where I can
+utilize my expertise in Access and Identity Management to support IAM functions in Microsoft Azure and AWS
+environments. With over 5 years of experience in Access and Identity Management, I am confident that my skills
+and passion for cloud security governance practices make me an ideal candidate for this role.
 
-Throughout my career, I have gained extensive experience working with IAM within Microsoft Azure and Amazon Web
-Services (AWS) environments, with a strong focus on Privileged Identity Management (PIM) and Role-Based Access Control
-(RBAC). My expertise in Azure DevOps, Terraform, Python scripting, and PowerShell has enabled me to craft and maintain
-roles, permissions, and entitlements for various businesses and departments. I am well-versed in cloud security
-governance practices and have experience with IAM policy and document preparation.
+Throughout my career, I have gained extensive experience working with IAM within Microsoft Azure and Amazon
+Web Services (AWS) environments, with a strong focus on Privileged Identity Management (PIM) and Role-Based
+Access Control (RBAC). My expertise in Azure DevOps, Terraform, Python scripting, and PowerShell has enabled
+me to craft and maintain roles, permissions, and entitlements for various businesses and departments. I am
+well-versed in cloud security governance practices and have experience with IAM policy and document
+preparation.
 
 I would like to highlight some of my relevant projects that demonstrate my capabilities:
 
-* GDPR-Android-Threat-Analysis (https://github.com/Anshuman1812-lab/GDPR-Android-Threat-Analysis): This project
-showcases my ability to analyze and identify potential threats in Android applications, ensuring compliance with GDPR
-regulations.
-* OSINT-Gathering (https://github.com/Anshuman1812-lab/OSINT-Gathering): This project demonstrates my skills in
-gathering and analyzing open-source intelligence, which can be applied to identity management and access control.
-* The Cyber Trap (https://medium.com/@anshumansingh1/the-cyber-trap-c8467168663c): This article highlights my
-understanding of cloud security risks and the importance of implementing robust identity and access management
-practices.
+* GDPR-Android-Threat-Analysis (https://github.com/Anshuman1812-lab/GDPR-Android-Threat-Analysis): This
+project showcases my ability to analyze and identify potential threats in Android applications, ensuring
+compliance with GDPR regulations.
+* OSINT-Gathering (https://github.com/Anshuman1812-lab/OSINT-Gathering): This project demonstrates my skills
+in gathering and analyzing open-source intelligence, which can be applied to identity management and access
+control.
+* The Cyber Trap (https://medium.com/@anshumansingh1/the-cyber-trap-c8467168663c): This article highlights
+my understanding of cloud security risks and the importance of implementing robust identity and access
+management practices.
 
-I am excited about the opportunity to join BlackRock and contribute my expertise to support the company's cloud
-identity access management functions. Thank you for considering my application. I look forward to discussing my
-qualifications further.
+I am excited about the opportunity to join BlackRock and contribute my expertise to support the company's
+cloud identity access management functions. Thank you for considering my application. I look forward to
+discussing my qualifications further.
 
 Best regards,
 Anshuman Singh
