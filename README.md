@@ -47,7 +47,7 @@ This tool extracts detailed job descriptions from company websites and generates
 To set up the project on your local machine, follow these steps:
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your_username/cold-email-generator.git
+git clone https://github.com/Anshuman1812-lab/ImpactMailer.git
 cd ImpactMailer
 ```
 
